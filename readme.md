@@ -27,6 +27,7 @@ Background is pips where hour markers would be present on an analog watch.
 
 Notes:
 - Weather information is sourced based on current location from the garmin connect app, which can be configured to use a static location or the phone's current location.
-
+- Expected watch face from the simulated watch:
+  - ![watch_face](expected_face.png)
 
 
